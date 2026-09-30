@@ -1,0 +1,30 @@
+{
+  "businessInfo": {
+    "name": "PowerCell Battery Malaysia",
+    "nameBM": "PowerCell Bateri Malaysia",
+    "tagline": "Malaysia's Trusted Battery Specialist",
+    "taglineBM": "Pakar Bateri Dipercayai Malaysia",
+    "phone": "+60123456789",
+    "whatsapp": "+60123456789",
+    "email": "hello@powercellbattery.my",
+    "address": "No. 15, Jalan SS 15/4D, 47500 Subang Jaya, Selangor",
+    "hours": "Mon-Sat: 8:30 AM - 7:00 PM | Sun: 9:00 AM - 5:00 PM",
+    "social": {
+      "facebook": "https://facebook.com/powercellbatterymy",
+      "instagram": "https://instagram.com/powercellbatterymy",
+      "tiktok": "https://tiktok.com/@powercellbatterymy"
+    }
+  },
+  "promotions": [
+    { "id": "promo-raya", "title": "Raya Special Sale", "titleBM": "Jualan Istimewa Raya", "subtitle": "Up to 30% OFF + FREE installation", "code": "RAYA2026", "badge": "🎉 Limited Time" },
+    { "id": "promo-trade", "title": "Trade-In & Save", "titleBM": "Tukar & Jimat", "subtitle": "Bring old battery, get RM30 OFF", "code": "TRADEIN30", "badge": "♻️ Eco Deal" },
+    { "id": "promo-install", "title": "Free Same-Day Install", "titleBM": "Pemasangan Percuma", "subtitle": "Order before 2PM in KL & Selangor", "code": "FREEINSTALL", "badge": "🚀 Express" }
+  ],
+  "testimonials": [
+    { "name": "Ahmad Faizal", "location": "Petaling Jaya", "rating": 5, "text": "Excellent service! Ordered at 11am and installed by 3pm.", "car": "Perodua Myvi 2023" },
+    { "name": "Siti Nurhaliza", "location": "Shah Alam", "rating": 5, "text": "AI recommendation was spot on! Perfect battery at great price.", "car": "Honda City 2022" },
+    { "name": "Raj Kumar", "location": "Kuala Lumpur", "rating": 5, "text": "Best battery shop in KL! WhatsApp ordering is so convenient.", "car": "Toyota Camry 2021" },
+    { "name": "Lee Wei Ming", "location": "Subang Jaya", "rating": 4, "text": "Quick response, fair pricing, knowledgeable installer.", "car": "BMW 320i 2020" },
+    { "name": "Nurul Aisyah", "location": "Bangsar", "rating": 5, "text": "Emergency roadside service saved my day! Arrived in 30 mins.", "car": "Proton X50 2024" }
+  ]
+}
